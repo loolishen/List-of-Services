@@ -1,1 +1,94 @@
-
+{
+  "industries": [
+    {
+      "name": "Graphics & Design",
+      "services": [
+        "Logo Design",
+        "Brand Style Guides",
+        "Game Design",
+        "Illustration",
+        "Web Design",
+        "App Design",
+        "UX/UI Design",
+        "Presentation Design",
+        "Infographic Design",
+        "3D Modeling & Rendering",
+        "Packaging Design",
+        "Social Media Design",
+        "Flyer Design",
+        "Business Cards & Stationery",
+        "Photoshop Editing"
+      ]
+    },
+    {
+      "name": "Digital Marketing",
+      "services": [
+        "Social Media Management",
+        "SEO Optimization",
+        "Content Marketing",
+        "PPC Advertising",
+        "Email Marketing",
+        "Influencer Marketing",
+        "Conversion Rate Optimization",
+        "Marketing Strategy",
+        "Video Marketing",
+        "Branding Services",
+        "E-commerce Marketing",
+        "Analytics & Tracking Setup",
+        "Mobile Advertising"
+      ]
+    },
+    {
+      "name": "Writing & Translation",
+      "services": [
+        "Copywriting",
+        "Content Writing",
+        "Ghostwriting",
+        "Technical Writing",
+        "Proofreading & Editing",
+        "Translation Services",
+        "Creative Writing",
+        "Grant Writing",
+        "Press Releases",
+        "Legal Writing",
+        "Speechwriting",
+        "Transcription Services"
+      ]
+    },
+    {
+      "name": "Programming & Tech",
+      "services": [
+        "Web Development",
+        "Mobile App Development",
+        "Custom Software Development",
+        "WordPress Development",
+        "E-commerce Development",
+        "Chatbot Development",
+        "Game Development",
+        "Data Analysis & Reports",
+        "Database Development",
+        "Cybersecurity & Data Protection",
+        "DevOps Services",
+        "Blockchain Development",
+        "AR/VR Development"
+      ]
+    },
+    {
+      "name": "Art & Drawing",
+      "services": [
+        "Custom Portraits",
+        "Illustration",
+        "Concept Art",
+        "Comic & Cartoon Art",
+        "Tattoo Design",
+        "Sketching",
+        "Painting",
+        "Calligraphy",
+        "Mural Art",
+        "Character Design",
+        "Digital Art",
+        "Storyboard Art"
+      ]
+    }
+  ]
+}
